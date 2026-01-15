@@ -3,7 +3,7 @@ Data Analytics
 
 # [Project 1: Marketing KPI Dashboard ] (https://lookerstudio.google.com/reporting/fb285deb-7aae-4777-a7c0-bbbc2f5cd9b1)
 
-This dashboard presents an analysis of marketing performance, focusing on audience engagement and geographic trends.
+This dashboard provides an analysis of marketing performance, highlighting audience engagement and key KPIs for Q2.
 
 It aims to support data-driven decisions to improve marketing effectiveness.
 
