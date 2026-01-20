@@ -5,7 +5,7 @@ Data Analytics
 https://lookerstudio.google.com/reporting/fb285deb-7aae-4777-a7c0-bbbc2f5cd9b1
 
 
-This dashboard provides an analysis of marketing performance, highlighting audience engagement and key KPIs for Q2.
+This dashboard provides an analysis of marketing performance, highlighting audience engagement and key KPIs for Q2 2025.
 
 It aims to support data-driven decisions to improve marketing effectiveness.
 
