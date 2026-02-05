@@ -1,5 +1,4 @@
-# Salma's Portfolio
-Data Analytics
+# Salma's Data Analytics Portfolio
 
 # Project 1: Marketing KPI Dashboard 
 https://lookerstudio.google.com/reporting/fb285deb-7aae-4777-a7c0-bbbc2f5cd9b1
