@@ -24,4 +24,4 @@ This Power BI dashboard provides a comprehensive view of sales performance for m
 
 - Yearly Overview: Get a high-level summary of annual sales performance, targets, and key metrics.
 
-  Built with Power BI, this dashboard offers intuitive visuals, dynamic filters, and actionable insights to support strategic planning and performance management.
+Built with Power BI, this dashboard offers intuitive visuals, dynamic filters, and actionable insights to support strategic planning and performance management.
