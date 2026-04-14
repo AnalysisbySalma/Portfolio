@@ -1,6 +1,6 @@
 # Salma's Data Analytics Portfolio
 
-# Project 1: Marketing KPI Dashboard 
+# Project 1: Marketing Dashboard 
 https://lookerstudio.google.com/reporting/fb285deb-7aae-4777-a7c0-bbbc2f5cd9b1/page/p_vxlex52s0d
 
 This dashboard provides an analysis of marketing performance, highlighting audience engagement and key KPIs for Q2 2025.
